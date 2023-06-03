@@ -5,8 +5,7 @@ HELP.md
 doc
 coverage/
 node_modules/
-.eslintignore
-dist/
+
 
 
 # Logs
